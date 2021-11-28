@@ -1,0 +1,5 @@
+@font-face {
+    font-family: harrypotter;
+    src: url(ideal-sans-serif.woff) format("woff"),
+         url(basic-sans-serif.ttf) format("opentype");
+  }

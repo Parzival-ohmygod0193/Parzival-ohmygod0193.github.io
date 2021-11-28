@@ -1,0 +1,6 @@
+@font-face {
+    font-family: "starwar_font";
+    src:url('../fonts/starwar_font.woff') format("woff"),
+        url('../fonts/starwar_font.ttf') format("truetype"),
+        url('../fonts/starwar_font.eot') format("embedded-opentype");
+}
